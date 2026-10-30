@@ -1,0 +1,8 @@
+Read-only demonstration, verified October 30, 2026:
+
+$ python3 client.py --domain example.org
+Challenge validated: HTTPS, Base Sepolia, exact, 0.01 test USDC, expected recipient.
+Read-only check complete. No wallet, key, RPC or payment needed.
+
+This is a challenge check, not a paid diagnostic. To obtain a diagnostic,
+follow the README test-wallet steps and explicitly use --pay.
