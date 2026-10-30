@@ -10,7 +10,7 @@ I'm looking for five developers to try a real integration and tell me what's mis
 
 Website: https://x4-02.fr
 API docs: https://api.x4-02.fr/docs
-Client: https://x4-02.fr/client.py (current website download; GitHub link to follow after publication)
+Client and quickstart: https://github.com/Nicus83/domain-intelligence-client
 
 Scope: DNS and email-policy presence, not a reputation score, security audit or full SPF/DMARC validator.
 

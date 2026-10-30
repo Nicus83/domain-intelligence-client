@@ -8,7 +8,14 @@ Check a domain's DNS records and SPF/DMARC presence through a JSON API. No API k
 
 ## First request: no wallet, no dependencies, no payment
 
-Requires Python 3.10+ on Linux or macOS; this release is tested on Linux/Python 3.12. After downloading or cloning this repository:
+Requires Python 3.10+ on Linux or macOS; this release is tested on Linux/Python 3.12. Clone the repository:
+
+```sh
+git clone https://github.com/Nicus83/domain-intelligence-client.git
+cd domain-intelligence-client
+```
+
+Then run the read-only check:
 
 ```sh
 python3 client.py
